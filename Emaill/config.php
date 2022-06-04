@@ -1,0 +1,16 @@
+<?php
+    define("DIR_PATH","C:/xampp/htdocs/Email/email"
+);
+    define("URL_BASE","http://localhost/Emaill/"
+);
+    define("URL_TEMPLATE",URL_BASE."/template"
+);
+    define("URL_IMAGENS",URL_TEMPLATE."/imagens"
+);
+    define("EMAIL_ORIGEM","joaoaulaphpemail@gmail.com"
+);
+    define("SENHA_EMAIL","aula123aula"
+);
+    define("EMAIL_DESTINO","carolrosback2004@gmail.com"
+);
+?>
